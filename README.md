@@ -1,4 +1,4 @@
-# One-click-Conversion-for-RS-Datasets
+# One-Click-Conversion-for-RS-Datasets
 
 Realize one-click conversion of mainstream remote sensing data formats in order to adapt to [MMdetection](https://github.com/open-mmlab/mmdetection) and [MMrotation](https://github.com/open-mmlab/mmrotate).
 
