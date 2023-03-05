@@ -4,8 +4,6 @@ Realize one-click conversion of mainstream remote sensing data formats in order 
 
 ## **Introduction**
 
----
-
 To achieve a simple and efficient RS datasets conversion experience. For rotating bboxs, we convert to DOTA format uniformly. For horizontal bboxs, we convert to COCO format. 
 
 All conversions are available in **one click**, allowing you to experience the MM series algorithm faster. For commonly used datasets, please see the [repository](https://github.com/kongyan66/Remote-sensing-detection).
