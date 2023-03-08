@@ -10,8 +10,8 @@ All conversions are available in **one click**, allowing you to experience the M
 
 ## **What‘s News**
 
-- 4/3/2023: Support UCAS-AOD
-- 1/3/2023: Support HRSC2016
+- `Mar 3, 2023`: 🚀 Support UCAS-AOD
+- `Mar 1, 2023`: 🚀 Support HRSC2016
 
 ## **Supported datasets**
 
@@ -19,10 +19,10 @@ All conversions are available in **one click**, allowing you to experience the M
 
 - [x] HRSC2016(OBB)
 - [x] UCAS-AOD(OBB)
+- [x] DIOR-R(OBB)
 
-**Datasets to be supported:**
+**To be supported:**
 
-- [ ]  DIOR(OBB)
 - [ ]  NWPU VHR-10(OBB)
 - [ ]  SADD(HBB)
 
