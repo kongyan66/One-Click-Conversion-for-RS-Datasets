@@ -14,7 +14,9 @@ Firstly, you need to change CLASSES in `mmrotate/datasets`, **for example:**
     CLASSES = ('airplane', 'car')
     # DIOR
     CLASSES = ('airplane', 'airport', 'baseballfield', 'basketballcourt', 'bridge', 'chimney', 
-               'Expressway-Service-area', 'Expressway-toll-station', 'dam', 'golffield','groundtrackfield',                'harbor', 'overpass', 'ship',  'stadium', 'storagetank', 'tenniscourt', 'trainstation',                      'vehicle', 'windmill')
+               'Expressway-Service-area', 'Expressway-toll-station', 'dam', 'golffield','groundtrackfield',
+               'harbor', 'overpass', 'ship',  'stadium', 'storagetank', 'tenniscourt', 'trainstation', 
+               'vehicle', 'windmill')
 ```
 
 Second, you need to modify **the dataset path** and related configuration in `configs/_base_/datasets/dotav1.py`, such as `img_scale`, `samples_per_gpu`, etc. 
